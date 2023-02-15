@@ -1,7 +1,7 @@
 :root {
     --primary-dark: #000;
-    --primary-light: #ededed;
-    --secondary-light: #fefefe;
+    --primary-light: #4a6633;
+    --secondary-light: rgb(99, 99, 99);
   }
   
   *,
